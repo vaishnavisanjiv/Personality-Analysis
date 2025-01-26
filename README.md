@@ -29,9 +29,3 @@ Try the project live at:
 
 4. Visit `http://127.0.0.1:5000` to test locally.
 
-## License
-MIT License
-
----
-
-This concise version includes all the necessary information without being too long. Let me know if you'd like further adjustments!
