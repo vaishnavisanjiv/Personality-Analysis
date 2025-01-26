@@ -11,7 +11,7 @@ Try the project live at:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personality-prediction.git
+   git clone https://github.com/vaishnavisanjiv/personality-prediction.git
    cd personality-prediction
    ```
 
